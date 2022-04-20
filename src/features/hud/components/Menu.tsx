@@ -14,15 +14,15 @@ import { Share } from "./Share";
 import { HowToPlay } from "./howToPlay/HowToPlay";
 import { Settings } from "./Settings";
 
-import mobileMenu from "assets/icons/hamburger_menu.png";
-import questionMark from "assets/icons/expression_confused.png";
-import radish from "assets/icons/radish.png";
-import town from "assets/icons/town.png";
-import water from "assets/icons/expression_working.png";
-import timer from "assets/icons/timer.png";
-import wood from "assets/resources/wood.png";
-import leftArrow from "assets/icons/arrow_left.png";
-import close from "assets/icons/close.png";
+import mobileMenu from "assets/icons/hamburger_menu.webp";
+import questionMark from "assets/icons/expression_confused.webp";
+import radish from "assets/icons/radish.webp";
+import town from "assets/icons/town.webp";
+import water from "assets/icons/expression_working.webp";
+import timer from "assets/icons/timer.webp";
+import wood from "assets/resources/wood.webp";
+import leftArrow from "assets/icons/arrow_left.webp";
+import close from "assets/icons/close.webp";
 
 import { isNewFarm } from "../lib/onboarding";
 

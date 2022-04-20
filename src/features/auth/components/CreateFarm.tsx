@@ -6,11 +6,11 @@ import ReCAPTCHA from "react-google-recaptcha";
 import { Button } from "components/ui/Button";
 import { OuterPanel } from "components/ui/Panel";
 
-import upArrow from "assets/icons/arrow_up.png";
-import downArrow from "assets/icons/arrow_down.png";
-import question from "assets/icons/expression_confused.png";
-import leftArrow from "assets/icons/arrow_left.png";
-import rightArrow from "assets/icons/arrow_right.png";
+import upArrow from "assets/icons/arrow_up.webp";
+import downArrow from "assets/icons/arrow_down.webp";
+import question from "assets/icons/expression_confused.webp";
+import leftArrow from "assets/icons/arrow_left.webp";
+import rightArrow from "assets/icons/arrow_right.webp";
 import { Auth } from "../Auth";
 import { Context } from "../lib/Provider";
 import { useActor } from "@xstate/react";

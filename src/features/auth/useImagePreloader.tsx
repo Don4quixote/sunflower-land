@@ -6,7 +6,7 @@ import lightningDeath from "assets/npcs/human_death.gif";
 import minting from "assets/npcs/minting.gif";
 import richBegger from "assets/npcs/rich_begger.gif";
 import syncing from "assets/npcs/syncing.gif";
-import background from "assets/land/background.png";
+import background from "assets/land/background.webp";
 
 const IMAGE_LIST: string[] = [
   goblinDonation,

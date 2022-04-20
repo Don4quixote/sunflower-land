@@ -3,9 +3,9 @@ import { useActor } from "@xstate/react";
 import { Context } from "features/game/GameProvider";
 import { InventoryItemName } from "features/game/types/game";
 
-import seeds from "assets/icons/seeds.png";
-import sunflowerPlant from "assets/crops/sunflower/crop.png";
-import close from "assets/icons/close.png";
+import seeds from "assets/icons/seeds.webp";
+import sunflowerPlant from "assets/crops/sunflower/crop.webp";
+import close from "assets/icons/close.webp";
 
 import { Panel } from "components/ui/Panel";
 import { Tab } from "components/ui/Tab";
@@ -21,12 +21,12 @@ import {
 } from "features/game/types/craftables";
 import { RESOURCES } from "features/game/types/resources";
 
-import seed from "assets/crops/beetroot/seed.png";
-import crop from "assets/crops/sunflower/crop.png";
-import tool from "assets/tools/hammer.png";
+import seed from "assets/crops/beetroot/seed.webp";
+import crop from "assets/crops/sunflower/crop.webp";
+import tool from "assets/tools/hammer.webp";
 import nft from "assets/nfts/gnome.gif";
-import food from "assets/crops/wheat/flour.png";
-import resource from "assets/resources/wood.png";
+import food from "assets/crops/wheat/flour.webp";
+import resource from "assets/resources/wood.webp";
 
 import Decimal from "decimal.js-light";
 import { InventoryTabContent } from "./InventoryTabContent";

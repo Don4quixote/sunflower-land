@@ -2,8 +2,8 @@ import React, { useContext, useRef, useState } from "react";
 import { useActor } from "@xstate/react";
 import classNames from "classnames";
 
-import selectBox from "assets/ui/select/select_box.png";
-import cancel from "assets/icons/cancel.png";
+import selectBox from "assets/ui/select/select_box.webp";
+import cancel from "assets/icons/cancel.webp";
 
 import { Context } from "features/game/GameProvider";
 import { InventoryItemName, Reward } from "features/game/types/game";

@@ -5,8 +5,8 @@ import classNames from "classnames";
 
 import { Context } from "features/game/GameProvider";
 
-import wishingWell from "assets/buildings/wishing_well.png";
-import icon from "assets/brand/icon.png";
+import wishingWell from "assets/buildings/wishing_well.webp";
+import icon from "assets/brand/icon.webp";
 
 import { WishingWellModal } from "./components/WishingWellModal";
 import { GRID_WIDTH_PX } from "features/game/lib/constants";

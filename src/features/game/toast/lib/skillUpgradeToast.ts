@@ -6,8 +6,8 @@ import {
 import { GameState } from "features/game/types/game";
 import { SetToast } from "../ToastQueueProvider";
 
-import plant from "assets/icons/plant.png";
-import pickaxe from "assets/tools/stone_pickaxe.png";
+import plant from "assets/icons/plant.webp";
+import pickaxe from "assets/tools/stone_pickaxe.webp";
 
 export function skillUpgradeToast(state: GameState, setToast: SetToast) {
   const upgrades = getAvailableUpgrades(state);

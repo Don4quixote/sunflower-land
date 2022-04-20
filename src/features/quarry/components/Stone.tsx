@@ -6,10 +6,10 @@ import Spritesheet, {
 
 import Decimal from "decimal.js-light";
 
-import sparkSheet from "assets/resources/stone/stone_spark.png";
-import dropSheet from "assets/resources/stone/stone_drop.png";
-import empty from "assets/resources/stone/stone_empty.png";
-import stone from "assets/resources/stone.png";
+import sparkSheet from "assets/resources/stone/stone_spark.webp";
+import dropSheet from "assets/resources/stone/stone_drop.webp";
+import empty from "assets/resources/stone/stone_empty.webp";
+import stone from "assets/resources/stone.webp";
 
 import { GRID_WIDTH_PX } from "features/game/lib/constants";
 import { Context } from "features/game/GameProvider";

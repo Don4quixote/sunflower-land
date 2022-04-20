@@ -4,8 +4,8 @@ import { useActor } from "@xstate/react";
 import ReCAPTCHA from "react-google-recaptcha";
 
 import token from "assets/icons/token.gif";
-import timer from "assets/icons/timer.png";
-import lightning from "assets/icons/lightning.png";
+import timer from "assets/icons/timer.webp";
+import lightning from "assets/icons/lightning.webp";
 
 import { Box } from "components/ui/Box";
 import { OuterPanel } from "components/ui/Panel";

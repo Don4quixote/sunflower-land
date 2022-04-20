@@ -2,8 +2,8 @@ import React, { useContext, useEffect, useState } from "react";
 import Modal from "react-bootstrap/Modal";
 import { useActor } from "@xstate/react";
 
-import basket from "assets/icons/basket.png";
-import button from "assets/ui/button/round_button.png";
+import basket from "assets/icons/basket.webp";
+import button from "assets/ui/button/round_button.webp";
 
 import { Label } from "components/ui/Label";
 import { Box } from "components/ui/Box";

@@ -1,42 +1,42 @@
-import sunflowerSeedling from "assets/crops/sunflower/seedling.png";
-import sunflowerAlmostDone from "assets/crops/sunflower/almost.png";
-import sunflowerPlant from "assets/crops/sunflower/planted.png";
+import sunflowerSeedling from "assets/crops/sunflower/seedling.webp";
+import sunflowerAlmostDone from "assets/crops/sunflower/almost.webp";
+import sunflowerPlant from "assets/crops/sunflower/planted.webp";
 
-import potatoSeedling from "assets/crops/potato/seedling.png";
-import potatoAlmostDone from "assets/crops/potato/almost.png";
-import potatoPlant from "assets/crops/potato/plant.png";
+import potatoSeedling from "assets/crops/potato/seedling.webp";
+import potatoAlmostDone from "assets/crops/potato/almost.webp";
+import potatoPlant from "assets/crops/potato/plant.webp";
 
-import pumpkinSeedling from "assets/crops/pumpkin/seedling.png";
-import pumpkinAlmostDone from "assets/crops/pumpkin/almost.png";
-import pumpkinPlant from "assets/crops/pumpkin/plant.png";
+import pumpkinSeedling from "assets/crops/pumpkin/seedling.webp";
+import pumpkinAlmostDone from "assets/crops/pumpkin/almost.webp";
+import pumpkinPlant from "assets/crops/pumpkin/plant.webp";
 
-import carrotSeedling from "assets/crops/carrot/seedling.png";
-import carrotAlmostDone from "assets/crops/carrot/almost.png";
-import carrotPlant from "assets/crops/carrot/plant.png";
+import carrotSeedling from "assets/crops/carrot/seedling.webp";
+import carrotAlmostDone from "assets/crops/carrot/almost.webp";
+import carrotPlant from "assets/crops/carrot/plant.webp";
 
-import cabbageSeedling from "assets/crops/cabbage/seedling.png";
-import cabbageAlmostDone from "assets/crops/cabbage/almost.png";
-import cabbagePlant from "assets/crops/cabbage/plant.png";
+import cabbageSeedling from "assets/crops/cabbage/seedling.webp";
+import cabbageAlmostDone from "assets/crops/cabbage/almost.webp";
+import cabbagePlant from "assets/crops/cabbage/plant.webp";
 
-import beetrootSeedling from "assets/crops/beetroot/seedling.png";
-import beetrootAlmostDone from "assets/crops/beetroot/almost.png";
-import beetrootPlant from "assets/crops/beetroot/plant.png";
+import beetrootSeedling from "assets/crops/beetroot/seedling.webp";
+import beetrootAlmostDone from "assets/crops/beetroot/almost.webp";
+import beetrootPlant from "assets/crops/beetroot/plant.webp";
 
-import cauliflowerSeedling from "assets/crops/cauliflower/seedling.png";
-import cauliflowerAlmostDone from "assets/crops/cauliflower/almost.png";
-import cauliflowerPlant from "assets/crops/cauliflower/plant.png";
+import cauliflowerSeedling from "assets/crops/cauliflower/seedling.webp";
+import cauliflowerAlmostDone from "assets/crops/cauliflower/almost.webp";
+import cauliflowerPlant from "assets/crops/cauliflower/plant.webp";
 
-import parsnipSeedling from "assets/crops/parsnip/seedling.png";
-import parsnipAlmostDone from "assets/crops/parsnip/almost.png";
-import parsnipPlant from "assets/crops/parsnip/plant.png";
+import parsnipSeedling from "assets/crops/parsnip/seedling.webp";
+import parsnipAlmostDone from "assets/crops/parsnip/almost.webp";
+import parsnipPlant from "assets/crops/parsnip/plant.webp";
 
-import radishSeedling from "assets/crops/radish/seedling.png";
-import radishAlmostDone from "assets/crops/radish/almost.png";
-import radishPlant from "assets/crops/radish/plant.png";
+import radishSeedling from "assets/crops/radish/seedling.webp";
+import radishAlmostDone from "assets/crops/radish/almost.webp";
+import radishPlant from "assets/crops/radish/plant.webp";
 
-import wheatSeedling from "assets/crops/wheat/seedling.png";
-import wheatAlmostDone from "assets/crops/wheat/almost.png";
-import wheatPlant from "assets/crops/wheat/plant.png";
+import wheatSeedling from "assets/crops/wheat/seedling.webp";
+import wheatAlmostDone from "assets/crops/wheat/almost.webp";
+import wheatPlant from "assets/crops/wheat/plant.webp";
 
 import { CropName } from "features/game/types/crops";
 

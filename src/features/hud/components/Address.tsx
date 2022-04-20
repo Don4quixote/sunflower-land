@@ -6,9 +6,9 @@ import { Context } from "features/game/GameProvider";
 import { Label } from "components/ui/Label";
 import { Panel } from "components/ui/Panel";
 
-import player from "assets/icons/player.png";
-import arrowLeft from "assets/icons/arrow_left.png";
-import arrowRight from "assets/icons/arrow_right.png";
+import player from "assets/icons/player.webp";
+import arrowLeft from "assets/icons/arrow_left.webp";
+import arrowRight from "assets/icons/arrow_right.webp";
 
 export const shortAddress = (address: string): string => {
   // check if there is an address

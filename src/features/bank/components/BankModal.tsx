@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import close from "assets/icons/close.png";
+import close from "assets/icons/close.webp";
 import token from "assets/icons/token.gif";
 
 import { Panel } from "components/ui/Panel";

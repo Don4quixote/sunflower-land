@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 import html2canvas from "html2canvas";
-import screenshotIcon from "assets/icons/screenshot-icon.png";
+import screenshotIcon from "assets/icons/screenshot-icon.webp";
 import { Modal } from "react-bootstrap";
 import { Panel } from "components/ui/Panel";
 import { Button } from "components/ui/Button";

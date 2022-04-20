@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
-import close from "assets/icons/close.png";
-import food from "assets/crops/wheat/flour.png";
+import close from "assets/icons/close.webp";
+import food from "assets/crops/wheat/flour.webp";
 
 import { Panel } from "components/ui/Panel";
 import { Tab } from "components/ui/Tab";

@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from "react";
 import Decimal from "decimal.js-light";
 
 import token from "assets/icons/token.gif";
-import lightning from "assets/icons/lightning.png";
+import lightning from "assets/icons/lightning.webp";
 
 import { Box } from "components/ui/Box";
 import { OuterPanel, Panel } from "components/ui/Panel";

@@ -5,8 +5,8 @@ import { Panel } from "components/ui/Panel";
 
 import { Modal } from "react-bootstrap";
 
-import close from "assets/icons/close.png";
-import farmImg from "assets/brand/nft.png";
+import close from "assets/icons/close.webp";
+import farmImg from "assets/brand/nft.webp";
 import { CopyField } from "components/ui/CopyField";
 
 interface Props {

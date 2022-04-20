@@ -1,7 +1,7 @@
 import React from "react";
 import { Modal } from "react-bootstrap";
-import arrowLeft from "assets/icons/arrow_left.png";
-import close from "assets/icons/close.png";
+import arrowLeft from "assets/icons/arrow_left.webp";
+import close from "assets/icons/close.webp";
 import { isNewFarm } from "features/hud/lib/onboarding";
 
 interface Props {

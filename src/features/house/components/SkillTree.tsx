@@ -4,11 +4,11 @@ import { SkillName, SKILL_TREE } from "features/game/types/skills";
 
 import { OuterPanel } from "components/ui/Panel";
 import { ITEM_DETAILS } from "features/game/types/images";
-import arrowLeft from "assets/icons/arrow_left.png";
+import arrowLeft from "assets/icons/arrow_left.webp";
 import { useActor } from "@xstate/react";
 import { Context } from "features/game/GameProvider";
 
-import lock from "assets/skills/lock.png";
+import lock from "assets/skills/lock.webp";
 
 interface Props {
   back: () => void;

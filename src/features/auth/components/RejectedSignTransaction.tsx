@@ -1,7 +1,7 @@
 import React from "react";
 import { Button } from "components/ui/Button";
 
-import alert from "assets/icons/expression_alerted.png";
+import alert from "assets/icons/expression_alerted.webp";
 
 interface Props {
   onTryAgain: () => void;

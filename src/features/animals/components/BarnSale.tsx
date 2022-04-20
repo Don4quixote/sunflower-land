@@ -1,8 +1,8 @@
 import React, { useContext, useState } from "react";
 
-import close from "assets/icons/close.png";
-import chicken from "assets/resources/chicken.png";
-import coop from "assets/nfts/chicken_coop.png";
+import close from "assets/icons/close.webp";
+import chicken from "assets/resources/chicken.webp";
+import coop from "assets/nfts/chicken_coop.webp";
 
 import { Panel } from "components/ui/Panel";
 import { Tab } from "components/ui/Tab";

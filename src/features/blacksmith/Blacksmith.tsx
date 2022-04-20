@@ -6,7 +6,7 @@ import classNames from "classnames";
 import { Context } from "features/game/GameProvider";
 
 import blacksmith from "assets/buildings/blacksmith_building.gif";
-import hammer from "assets/icons/hammer.png";
+import hammer from "assets/icons/hammer.webp";
 
 import { Crafting } from "./components/Crafting";
 import { Action } from "components/ui/Action";

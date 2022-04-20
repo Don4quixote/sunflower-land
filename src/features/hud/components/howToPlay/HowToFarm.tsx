@@ -2,13 +2,13 @@ import React from "react";
 
 import { Modal } from "react-bootstrap";
 
-import sunflower from "assets/crops/sunflower/planted.png";
-import seedling from "assets/crops/sunflower/seedling.png";
-import seed from "assets/crops/sunflower/seed.png";
-import cursor from "assets/ui/cursor.png";
+import sunflower from "assets/crops/sunflower/planted.webp";
+import seedling from "assets/crops/sunflower/seedling.webp";
+import seed from "assets/crops/sunflower/seed.webp";
+import cursor from "assets/ui/cursor.webp";
 import token from "assets/icons/token.gif";
 
-import market from "assets/buildings/market_building.png";
+import market from "assets/buildings/market_building.webp";
 import { HowToModalHeader } from "./HowToModalHeader";
 
 interface Props {

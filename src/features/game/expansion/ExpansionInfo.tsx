@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Modal from "react-bootstrap/Modal";
 
 import cloudGazer from "assets/npcs/cloud-gazer.gif";
-import questionMark from "assets/icons/expression_confused.png";
+import questionMark from "assets/icons/expression_confused.webp";
 
 import { GRID_WIDTH_PX } from "features/game/lib/constants";
 

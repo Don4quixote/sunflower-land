@@ -5,7 +5,7 @@ import { InnerPanel, OuterPanel } from "components/ui/Panel";
 import { Markdown } from "components/ui/Markdown";
 import { Message } from "../types/message";
 
-import alerted from "assets/icons/expression_alerted.png";
+import alerted from "assets/icons/expression_alerted.webp";
 
 interface Props {
   inbox: Message[];

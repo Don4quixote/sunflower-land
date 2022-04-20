@@ -1,6 +1,6 @@
 import React from "react";
 import classnames from "classnames";
-import border from "assets/ui/panel/light_border.png";
+import border from "assets/ui/panel/light_border.webp";
 
 interface Props {
   onClick?: (event: React.MouseEvent<HTMLButtonElement, MouseEvent>) => void;

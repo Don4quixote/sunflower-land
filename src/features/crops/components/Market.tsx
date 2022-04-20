@@ -5,8 +5,8 @@ import classNames from "classnames";
 
 import { Context } from "features/game/GameProvider";
 
-import market from "assets/buildings/market_building.png";
-import plant from "assets/icons/plant.png";
+import market from "assets/buildings/market_building.webp";
+import plant from "assets/icons/plant.webp";
 
 import { GRID_WIDTH_PX } from "features/game/lib/constants";
 import { Action } from "components/ui/Action";

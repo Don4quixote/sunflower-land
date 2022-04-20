@@ -1,61 +1,61 @@
 // CROPS
-import sunflowerSeed from "assets/crops/sunflower/seed.png";
-import sunflowerCrop from "assets/crops/sunflower/crop.png";
-import potatoSeed from "assets/crops/potato/seed.png";
-import potatoCrop from "assets/crops/potato/crop.png";
-import pumpkinSeed from "assets/crops/pumpkin/seed.png";
-import pumpkinCrop from "assets/crops/pumpkin/crop.png";
-import carrotSeed from "assets/crops/carrot/seed.png";
-import carrotCrop from "assets/crops/carrot/crop.png";
-import cabbageSeed from "assets/crops/cabbage/seed.png";
-import cabbageCrop from "assets/crops/cabbage/crop.png";
-import beetrootSeed from "assets/crops/beetroot/seed.png";
-import beetrootCrop from "assets/crops/beetroot/crop.png";
-import cauliflowerSeed from "assets/crops/cauliflower/seed.png";
-import cauliflowerCrop from "assets/crops/cauliflower/crop.png";
-import parsnipSeed from "assets/crops/parsnip/seed.png";
-import parsnipCrop from "assets/crops/parsnip/crop.png";
-import radishSeed from "assets/crops/radish/seed.png";
-import radishCrop from "assets/crops/radish/crop.png";
-import wheatSeed from "assets/crops/wheat/seed.png";
-import wheatCrop from "assets/crops/wheat/crop.png";
+import sunflowerSeed from "assets/crops/sunflower/seed.webp";
+import sunflowerCrop from "assets/crops/sunflower/crop.webp";
+import potatoSeed from "assets/crops/potato/seed.webp";
+import potatoCrop from "assets/crops/potato/crop.webp";
+import pumpkinSeed from "assets/crops/pumpkin/seed.webp";
+import pumpkinCrop from "assets/crops/pumpkin/crop.webp";
+import carrotSeed from "assets/crops/carrot/seed.webp";
+import carrotCrop from "assets/crops/carrot/crop.webp";
+import cabbageSeed from "assets/crops/cabbage/seed.webp";
+import cabbageCrop from "assets/crops/cabbage/crop.webp";
+import beetrootSeed from "assets/crops/beetroot/seed.webp";
+import beetrootCrop from "assets/crops/beetroot/crop.webp";
+import cauliflowerSeed from "assets/crops/cauliflower/seed.webp";
+import cauliflowerCrop from "assets/crops/cauliflower/crop.webp";
+import parsnipSeed from "assets/crops/parsnip/seed.webp";
+import parsnipCrop from "assets/crops/parsnip/crop.webp";
+import radishSeed from "assets/crops/radish/seed.webp";
+import radishCrop from "assets/crops/radish/crop.webp";
+import wheatSeed from "assets/crops/wheat/seed.webp";
+import wheatCrop from "assets/crops/wheat/crop.webp";
 
 // Tools
-import axe from "assets/tools/axe.png";
-import woodPickaxe from "assets/tools/wood_pickaxe.png";
-import stonePickaxe from "assets/tools/stone_pickaxe.png";
-import ironPickaxe from "assets/tools/iron_pickaxe.png";
-import hammer from "assets/tools/hammer.png";
-import rod from "assets/tools/fishing_rod.png";
+import axe from "assets/tools/axe.webp";
+import woodPickaxe from "assets/tools/wood_pickaxe.webp";
+import stonePickaxe from "assets/tools/stone_pickaxe.webp";
+import ironPickaxe from "assets/tools/iron_pickaxe.webp";
+import hammer from "assets/tools/hammer.webp";
+import rod from "assets/tools/fishing_rod.webp";
 
 // NFTs
-import chickenCoop from "assets/nfts/chicken_coop.png";
-import christmasTree from "assets/nfts/christmas_tree.png";
-import farmCat from "assets/nfts/farm_cat.png";
-import farmDog from "assets/nfts/farm_dog.png";
-import gnome from "assets/nfts/gnome.png";
-import goldEgg from "assets/nfts/gold_egg.png";
-import potatoStatue from "assets/nfts/potato_statue.png";
-import scarecrow from "assets/nfts/scarecrow.png";
-import sunflowerStatue from "assets/nfts/sunflower_statue.png";
-import sunflowerRock from "assets/nfts/sunflower_rock.png";
-import sunflowerTombstone from "assets/nfts/sunflower_tombstone.png";
-import goldenCauliflower from "assets/nfts/golden_cauliflower.png";
-import crown from "assets/nfts/goblin_crown.png";
+import chickenCoop from "assets/nfts/chicken_coop.webp";
+import christmasTree from "assets/nfts/christmas_tree.webp";
+import farmCat from "assets/nfts/farm_cat.webp";
+import farmDog from "assets/nfts/farm_dog.webp";
+import gnome from "assets/nfts/gnome.webp";
+import goldEgg from "assets/nfts/gold_egg.webp";
+import potatoStatue from "assets/nfts/potato_statue.webp";
+import scarecrow from "assets/nfts/scarecrow.webp";
+import sunflowerStatue from "assets/nfts/sunflower_statue.webp";
+import sunflowerRock from "assets/nfts/sunflower_rock.webp";
+import sunflowerTombstone from "assets/nfts/sunflower_tombstone.webp";
+import goldenCauliflower from "assets/nfts/golden_cauliflower.webp";
+import crown from "assets/nfts/goblin_crown.webp";
 import fountain from "assets/nfts/fountain.gif";
 import beaver from "assets/nfts/beaver.gif";
 import apprenticeBeaver from "assets/nfts/apprentice_beaver.gif";
 import constructionBeaver from "assets/nfts/construction_beaver.gif";
-import mysteriousParsnip from "assets/nfts/mysterious_parsnip.png";
-import carrotSword from "assets/nfts/carrot_sword.png";
-import nancy from "assets/nfts/nancy.png";
+import mysteriousParsnip from "assets/nfts/mysterious_parsnip.webp";
+import carrotSword from "assets/nfts/carrot_sword.webp";
+import nancy from "assets/nfts/nancy.webp";
 import kuebiko from "assets/nfts/kuebiko.gif";
 
 // Foods
-import pumpkinSoup from "assets/nfts/pumpkin_soup.png";
-import cabbageSoup from "assets/nfts/saurrerkrat.png";
-import roastedCaulfilower from "assets/nfts/roasted_cauliflower.png";
-import radishPie from "assets/nfts/radish_pie.png";
+import pumpkinSoup from "assets/nfts/pumpkin_soup.webp";
+import cabbageSoup from "assets/nfts/saurrerkrat.webp";
+import roastedCaulfilower from "assets/nfts/roasted_cauliflower.webp";
+import radishPie from "assets/nfts/radish_pie.webp";
 
 // Flags
 import australiaFlag from "assets/nfts/flags/australia_flag.gif";
@@ -102,33 +102,33 @@ import sierra_leone_flag from "assets/nfts/flags/sierra_leone_flag.gif";
 import singaporean_flag from "assets/nfts/flags/singaporean_flag.gif";
 
 // Resources
-import stone from "assets/resources/stone.png";
-import wood from "assets/resources/wood.png";
-import egg from "assets/resources/egg.png";
-import iron from "assets/resources/iron_ore.png";
-import gold from "assets/resources/gold_ore.png";
-import chicken from "assets/resources/chicken.png";
-import questionMark from "assets/icons/expression_confused.png";
+import stone from "assets/resources/stone.webp";
+import wood from "assets/resources/wood.webp";
+import egg from "assets/resources/egg.webp";
+import iron from "assets/resources/iron_ore.webp";
+import gold from "assets/resources/gold_ore.webp";
+import chicken from "assets/resources/chicken.webp";
+import questionMark from "assets/icons/expression_confused.webp";
 
 // Skills
-import greenThumb from "assets/skills/green_thumb.png";
-import goldRush from "assets/skills/gold_rush.png";
-import prospector from "assets/skills/prospector.png";
-import wrangler from "assets/skills/wrangler.png";
-import barnManager from "assets/skills/barn_manager.png";
-import seedSpecialist from "assets/skills/seed_specialist.png";
-import logger from "assets/skills/logger.png";
-import lumberjack from "assets/skills/lumberjack.png";
+import greenThumb from "assets/skills/green_thumb.webp";
+import goldRush from "assets/skills/gold_rush.webp";
+import prospector from "assets/skills/prospector.webp";
+import wrangler from "assets/skills/wrangler.webp";
+import barnManager from "assets/skills/barn_manager.webp";
+import seedSpecialist from "assets/skills/seed_specialist.webp";
+import logger from "assets/skills/logger.webp";
+import lumberjack from "assets/skills/lumberjack.webp";
 
 // Egg
-import redEgg from "src/assets/nfts/easter/red_egg.png";
-import yellowEgg from "src/assets/nfts/easter/yellow_egg.png";
-import purpleEgg from "src/assets/nfts/easter/purple_egg.png";
-import blueEgg from "src/assets/nfts/easter/blue_egg.png";
-import greenEgg from "src/assets/nfts/easter/green_egg.png";
-import orangeEgg from "src/assets/nfts/easter/orange_egg.png";
-import pinkEgg from "src/assets/nfts/easter/pink_egg.png";
-import easterBasket from "src/assets/nfts/easter/basket.png";
+import redEgg from "src/assets/nfts/easter/red_egg.webp";
+import yellowEgg from "src/assets/nfts/easter/yellow_egg.webp";
+import purpleEgg from "src/assets/nfts/easter/purple_egg.webp";
+import blueEgg from "src/assets/nfts/easter/blue_egg.webp";
+import greenEgg from "src/assets/nfts/easter/green_egg.webp";
+import orangeEgg from "src/assets/nfts/easter/orange_egg.webp";
+import pinkEgg from "src/assets/nfts/easter/pink_egg.webp";
+import easterBasket from "src/assets/nfts/easter/basket.webp";
 import easterBunny from "src/assets/nfts/easter/easter_bunny.gif";
 
 import { InventoryItemName } from "./game";

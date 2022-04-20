@@ -2,8 +2,8 @@ import React, { useState } from "react";
 import Modal from "react-bootstrap/Modal";
 
 import idle from "assets/npcs/idle.gif";
-import questionMark from "assets/icons/expression_confused.png";
-import axe from "assets/tools/axe.png";
+import questionMark from "assets/icons/expression_confused.webp";
+import axe from "assets/tools/axe.webp";
 
 import { GRID_WIDTH_PX } from "features/game/lib/constants";
 

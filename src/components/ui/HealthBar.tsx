@@ -1,8 +1,8 @@
 import React from "react";
 
-import progressEmpty from "assets/ui/progress/blue_empty.png";
-import progressAlmost from "assets/ui/progress/blue_almost.png";
-import progressHalf from "assets/ui/progress/blue_half.png";
+import progressEmpty from "assets/ui/progress/blue_empty.webp";
+import progressAlmost from "assets/ui/progress/blue_almost.webp";
+import progressHalf from "assets/ui/progress/blue_half.webp";
 
 interface Props {
   percentage: number;

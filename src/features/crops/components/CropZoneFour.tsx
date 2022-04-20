@@ -9,8 +9,8 @@ import { Panel } from "components/ui/Panel";
 
 import goblin from "assets/npcs/goblin_jump.gif";
 import goblinDig from "assets/npcs/goblin_dig.gif";
-import goblinHead from "assets/npcs/goblin_head.png";
-import cauliflowerRice from "assets/nfts/roasted_cauliflower.png";
+import goblinHead from "assets/npcs/goblin_head.webp";
+import cauliflowerRice from "assets/nfts/roasted_cauliflower.webp";
 
 import { Field } from "./Field";
 

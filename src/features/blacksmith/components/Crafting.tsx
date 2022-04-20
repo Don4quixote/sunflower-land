@@ -1,8 +1,8 @@
 import React, { useContext, useState } from "react";
 
-import hammer from "assets/icons/hammer.png";
-import close from "assets/icons/close.png";
-import nft from "assets/nfts/goblin_crown.png";
+import hammer from "assets/icons/hammer.webp";
+import close from "assets/icons/close.webp";
+import nft from "assets/nfts/goblin_crown.webp";
 
 import { Panel } from "components/ui/Panel";
 import { Tab } from "components/ui/Tab";

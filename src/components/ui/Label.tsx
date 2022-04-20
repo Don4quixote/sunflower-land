@@ -1,6 +1,6 @@
 import React from "react";
 import classnames from "classnames";
-import border from "assets/ui/panel/white_border.png";
+import border from "assets/ui/panel/white_border.webp";
 
 interface Props {
   className?: string;

@@ -5,7 +5,7 @@ import { GRID_WIDTH_PX } from "features/game/lib/constants";
 
 import { Panel } from "components/ui/Panel";
 
-import frog from "assets/animals/frog.png";
+import frog from "assets/animals/frog.webp";
 import { frogAudio } from "lib/utils/sfx";
 
 export const Frog: React.FC = () => {

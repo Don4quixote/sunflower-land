@@ -2,7 +2,7 @@ import React from "react";
 
 import { Modal } from "react-bootstrap";
 
-import timer from "assets/icons/timer.png";
+import timer from "assets/icons/timer.webp";
 import { HowToModalHeader } from "features/hud/components/howToPlay/HowToModalHeader";
 
 interface Props {

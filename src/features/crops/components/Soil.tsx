@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 
 import classNames from "classnames";
-import soil from "assets/land/soil2.png";
+import soil from "assets/land/soil2.webp";
 
 import { getTimeLeft, secondsToMidString } from "lib/utils/time";
 

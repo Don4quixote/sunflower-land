@@ -13,7 +13,7 @@ import {
 } from "./lib/mail";
 
 import baldMan from "assets/npcs/bald_man.gif";
-import alerted from "assets/icons/expression_alerted.png";
+import alerted from "assets/icons/expression_alerted.webp";
 
 export const Mail: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);

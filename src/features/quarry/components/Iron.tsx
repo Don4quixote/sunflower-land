@@ -6,10 +6,10 @@ import Spritesheet, {
 
 import Decimal from "decimal.js-light";
 
-import sparkSheet from "assets/resources/iron/iron_spark.png";
-import dropSheet from "assets/resources/iron/iron_dropped.png";
-import empty from "assets/resources/iron/iron_empty.png";
-import ironOre from "assets/resources/iron_ore.png";
+import sparkSheet from "assets/resources/iron/iron_spark.webp";
+import dropSheet from "assets/resources/iron/iron_dropped.webp";
+import empty from "assets/resources/iron/iron_empty.webp";
+import ironOre from "assets/resources/iron_ore.webp";
 
 import { GRID_WIDTH_PX } from "features/game/lib/constants";
 import { Context } from "features/game/GameProvider";

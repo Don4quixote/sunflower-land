@@ -1,8 +1,8 @@
 import React from "react";
 import classNames from "classnames";
 
-import darkBorder from "assets/ui/panel/dark_border.png";
-import lightBorder from "assets/ui/panel/light_border.png";
+import darkBorder from "assets/ui/panel/dark_border.webp";
+import lightBorder from "assets/ui/panel/light_border.webp";
 
 interface Props {
   className?: string;

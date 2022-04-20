@@ -10,15 +10,15 @@ import {
   upgradeAvailable,
 } from "features/game/types/skills";
 
-import house from "assets/buildings/house.png";
+import house from "assets/buildings/house.webp";
 import smoke from "assets/buildings/smoke.gif";
-import player from "assets/icons/player.png";
-import questionMark from "assets/icons/expression_confused.png";
-import close from "assets/icons/close.png";
-import alert from "assets/icons/expression_alerted.png";
+import player from "assets/icons/player.webp";
+import questionMark from "assets/icons/expression_confused.webp";
+import close from "assets/icons/close.webp";
+import alert from "assets/icons/expression_alerted.webp";
 
-import plant from "assets/icons/plant.png";
-import pickaxe from "assets/tools/stone_pickaxe.png";
+import plant from "assets/icons/plant.webp";
+import pickaxe from "assets/tools/stone_pickaxe.webp";
 
 import { Action } from "components/ui/Action";
 import { InnerPanel, OuterPanel, Panel } from "components/ui/Panel";

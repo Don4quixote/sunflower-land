@@ -1,10 +1,10 @@
 import React, { useContext, useState } from "react";
 import { useActor } from "@xstate/react";
 
-import seeds from "assets/icons/seeds.png";
-import sunflowerPlant from "assets/crops/sunflower/crop.png";
-import close from "assets/icons/close.png";
-import goldenCauliflower from "assets/nfts/golden_cauliflower.png";
+import seeds from "assets/icons/seeds.webp";
+import sunflowerPlant from "assets/crops/sunflower/crop.webp";
+import close from "assets/icons/close.webp";
+import goldenCauliflower from "assets/nfts/golden_cauliflower.webp";
 
 import { Panel } from "components/ui/Panel";
 import { Tab } from "components/ui/Tab";

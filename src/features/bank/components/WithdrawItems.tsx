@@ -12,14 +12,14 @@ import { getItemUnit } from "features/game/lib/conversion";
 import { Button } from "components/ui/Button";
 import { Box } from "components/ui/Box";
 
-import player from "assets/icons/player.png";
+import player from "assets/icons/player.webp";
 
 import { toWei } from "web3-utils";
 import { metamask } from "lib/blockchain/metamask";
 import { canWithdraw } from "../lib/bankUtils";
 import { getOnChainState } from "features/game/actions/visit";
 
-import alert from "assets/icons/expression_alerted.png";
+import alert from "assets/icons/expression_alerted.webp";
 
 interface Props {
   onWithdraw: (ids: number[], amounts: string[]) => void;

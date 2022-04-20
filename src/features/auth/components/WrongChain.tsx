@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { Button } from "components/ui/Button";
 
-import alert from "assets/icons/expression_alerted.png";
-import metamaskIcon from "assets/icons/metamask-icon.png";
+import alert from "assets/icons/expression_alerted.webp";
+import metamaskIcon from "assets/icons/metamask-icon.webp";
 import { metamask } from "lib/blockchain/metamask";
 import { useIsMobile } from "lib/utils/hooks/useIsMobile";
 

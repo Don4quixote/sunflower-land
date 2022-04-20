@@ -97,7 +97,7 @@ input[type="number"] {
 
 /* Replace default chevron image */
 .accordion-button::after {
-  background-image: url("./assets/icons/indicator.png") !important;
+  background-image: url("./assets/icons/indicator.webp") !important;
 }
 
 img {

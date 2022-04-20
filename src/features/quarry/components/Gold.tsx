@@ -6,10 +6,10 @@ import Spritesheet, {
 
 import Decimal from "decimal.js-light";
 
-import sparkSheet from "assets/resources/gold/gold_spark.png";
-import dropSheet from "assets/resources/gold/gold_drop.png";
-import empty from "assets/resources/gold/gold_empty.png";
-import gold from "assets/resources/gold_ore.png";
+import sparkSheet from "assets/resources/gold/gold_spark.webp";
+import dropSheet from "assets/resources/gold/gold_drop.webp";
+import empty from "assets/resources/gold/gold_empty.webp";
+import gold from "assets/resources/gold_ore.webp";
 
 import { GRID_WIDTH_PX } from "features/game/lib/constants";
 import { Context } from "features/game/GameProvider";

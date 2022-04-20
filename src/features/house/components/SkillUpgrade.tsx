@@ -8,8 +8,8 @@ import {
   SKILL_TREE,
 } from "features/game/types/skills";
 
-import plant from "assets/icons/plant.png";
-import pickaxe from "assets/tools/stone_pickaxe.png";
+import plant from "assets/icons/plant.webp";
+import pickaxe from "assets/tools/stone_pickaxe.webp";
 
 import { Button } from "components/ui/Button";
 import { ITEM_DETAILS } from "features/game/types/images";

@@ -16,7 +16,7 @@ import {
 } from "./components";
 
 import jumpingGoblin from "assets/npcs/goblin_jump.gif";
-import curly from "assets/npcs/curly_hair.png";
+import curly from "assets/npcs/curly_hair.webp";
 import { Signing } from "./components/Signing";
 import { ErrorCode } from "lib/errors";
 import { SupplyReached } from "./components/SupplyReached";

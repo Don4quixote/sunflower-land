@@ -1,9 +1,9 @@
 import React from "react";
 
-import logo from "assets/brand/logo.png";
-import clouds from "assets/brand/clouds.png";
-import sunflowers from "assets/brand/sunflower_border.png";
-import pumpkin from "assets/crops/pumpkin/crop.png";
+import logo from "assets/brand/logo.webp";
+import clouds from "assets/brand/clouds.webp";
+import sunflowers from "assets/brand/sunflower_border.webp";
+import pumpkin from "assets/crops/pumpkin/crop.webp";
 
 export const Splash: React.FC = () => {
   return (

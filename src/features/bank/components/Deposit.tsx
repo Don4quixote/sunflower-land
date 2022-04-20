@@ -6,8 +6,8 @@ import { CopySvg } from "components/ui/CopyField";
 import { OuterPanel } from "components/ui/Panel";
 import { shortAddress } from "features/hud/components/Address";
 
-import farm from "assets/brand/nft.png";
-import alert from "assets/icons/expression_alerted.png";
+import farm from "assets/brand/nft.webp";
+import alert from "assets/icons/expression_alerted.webp";
 import { Label } from "components/ui/Label";
 import { Button } from "components/ui/Button";
 import classNames from "classnames";

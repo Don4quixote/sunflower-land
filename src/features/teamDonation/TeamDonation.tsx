@@ -11,9 +11,9 @@ import { Button } from "components/ui/Button";
 
 import begger from "assets/npcs/begger.gif";
 import richBegger from "assets/npcs/rich_begger.gif";
-import upArrow from "assets/icons/arrow_up.png";
-import downArrow from "assets/icons/arrow_down.png";
-import team from "assets/npcs/team.png";
+import upArrow from "assets/icons/arrow_up.webp";
+import downArrow from "assets/icons/arrow_down.webp";
+import team from "assets/npcs/team.webp";
 import humanDeath from "assets/npcs/human_death.gif";
 import { ERRORS } from "lib/errors";
 import { beggarAudio } from "lib/utils/sfx";

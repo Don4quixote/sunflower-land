@@ -2,9 +2,9 @@ import React, { useState, useEffect } from "react";
 import classNames from "classnames";
 import Decimal from "decimal.js-light";
 
-import darkBorder from "assets/ui/panel/dark_border.png";
-import selectBox from "assets/ui/select/select_box.png";
-import cancel from "assets/icons/cancel.png";
+import darkBorder from "assets/ui/panel/dark_border.webp";
+import selectBox from "assets/ui/select/select_box.webp";
+import cancel from "assets/icons/cancel.webp";
 import { Label } from "./Label";
 
 export interface BoxProps {

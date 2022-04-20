@@ -5,9 +5,9 @@ import { GRID_WIDTH_PX } from "features/game/lib/constants";
 
 import { Panel } from "components/ui/Panel";
 
-import greenBook from "assets/decorations/green_book.png";
-import yellowBook from "assets/decorations/yellow_book.png";
-import tombstone from "assets/decorations/tombstone.png";
+import greenBook from "assets/decorations/green_book.webp";
+import yellowBook from "assets/decorations/yellow_book.webp";
+import tombstone from "assets/decorations/tombstone.webp";
 import { battleAudio, diaryAudio } from "lib/utils/sfx";
 
 export const Lore: React.FC = () => {

@@ -3,10 +3,10 @@ import React from "react";
 import { Modal } from "react-bootstrap";
 
 import goblin from "assets/npcs/goblin.gif";
-import cursor from "assets/ui/cursor.png";
-import kitchen from "assets/buildings/bakery_building.png";
-import pumpkinSoup from "assets/nfts/pumpkin_soup.png";
-import carrot from "assets/crops/carrot/plant.png";
+import cursor from "assets/ui/cursor.webp";
+import kitchen from "assets/buildings/bakery_building.webp";
+import pumpkinSoup from "assets/nfts/pumpkin_soup.webp";
+import carrot from "assets/crops/carrot/plant.webp";
 import { HowToModalHeader } from "./HowToModalHeader";
 
 interface Props {

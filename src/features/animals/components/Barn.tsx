@@ -4,7 +4,7 @@ import { Modal } from "react-bootstrap";
 
 import { Context } from "features/game/GameProvider";
 
-import chicken from "assets/resources/chicken.png";
+import chicken from "assets/resources/chicken.webp";
 import { barnAudio } from "lib/utils/sfx";
 
 import { GRID_WIDTH_PX } from "features/game/lib/constants";

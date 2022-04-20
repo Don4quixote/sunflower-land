@@ -3,7 +3,7 @@ import { useActor } from "@xstate/react";
 
 import suspicious from "assets/npcs/suspicious_goblin.gif";
 import idle from "assets/npcs/idle.gif";
-import questionMark from "assets/icons/expression_confused.png";
+import questionMark from "assets/icons/expression_confused.webp";
 
 import * as Auth from "features/auth/lib/Provider";
 

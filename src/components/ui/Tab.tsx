@@ -1,6 +1,6 @@
 import React from "react";
 
-import tabBorder from "assets/ui/panel/tab_border.png";
+import tabBorder from "assets/ui/panel/tab_border.webp";
 import classNames from "classnames";
 
 interface Props {

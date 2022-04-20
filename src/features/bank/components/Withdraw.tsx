@@ -7,7 +7,7 @@ import { Button } from "components/ui/Button";
 import { WithdrawTokens } from "./WithdrawTokens";
 import { WithdrawItems } from "./WithdrawItems";
 
-import alert from "assets/icons/expression_alerted.png";
+import alert from "assets/icons/expression_alerted.webp";
 import { useActor } from "@xstate/react";
 
 interface Props {

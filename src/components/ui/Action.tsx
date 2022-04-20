@@ -1,6 +1,6 @@
 import React from "react";
 
-import disc from "assets/icons/disc.png";
+import disc from "assets/icons/disc.webp";
 import { InnerPanel, Panel } from "./Panel";
 import classNames from "classnames";
 

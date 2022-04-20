@@ -6,11 +6,11 @@ import Spritesheet, {
 
 import Decimal from "decimal.js-light";
 
-import shakeSheet from "assets/resources/tree/shake_sheet.png";
-import choppedSheet from "assets/resources/tree/chopped_sheet.png";
-import stump from "assets/resources/tree/stump.png";
-import wood from "assets/resources/wood.png";
-import axe from "assets/tools/axe.png";
+import shakeSheet from "assets/resources/tree/shake_sheet.webp";
+import choppedSheet from "assets/resources/tree/chopped_sheet.webp";
+import stump from "assets/resources/tree/stump.webp";
+import wood from "assets/resources/wood.webp";
+import axe from "assets/tools/axe.webp";
 
 import { GRID_WIDTH_PX } from "features/game/lib/constants";
 import { Context } from "features/game/GameProvider";

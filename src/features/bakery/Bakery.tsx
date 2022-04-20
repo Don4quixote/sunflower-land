@@ -5,9 +5,9 @@ import classNames from "classnames";
 
 import { Context } from "features/game/GameProvider";
 
-import bakery from "assets/buildings/bakery_building.png";
+import bakery from "assets/buildings/bakery_building.webp";
 import smoke from "assets/buildings/bakery_smoke.gif";
-import soup from "assets/icons/goblin_head.png";
+import soup from "assets/icons/goblin_head.webp";
 
 import { Crafting } from "./components/Crafting";
 import { Action } from "components/ui/Action";

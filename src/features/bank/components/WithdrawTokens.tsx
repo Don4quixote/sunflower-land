@@ -13,14 +13,14 @@ import { metamask } from "lib/blockchain/metamask";
 import * as Auth from "features/auth/lib/Provider";
 
 import token from "assets/icons/token.gif";
-import player from "assets/icons/player.png";
-import upArrow from "assets/icons/arrow_up.png";
-import downArrow from "assets/icons/arrow_down.png";
+import player from "assets/icons/player.webp";
+import upArrow from "assets/icons/arrow_up.webp";
+import downArrow from "assets/icons/arrow_down.webp";
 
 import { getTax } from "lib/utils/tax";
 import { getOnChainState } from "features/game/actions/visit";
 
-import alert from "assets/icons/expression_alerted.png";
+import alert from "assets/icons/expression_alerted.webp";
 
 interface Props {
   onWithdraw: (sfl: string) => void;

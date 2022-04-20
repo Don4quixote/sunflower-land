@@ -1,7 +1,7 @@
 import React, { useRef, useEffect } from "react";
 import ScrollContainer from "react-indiana-drag-scroll";
 
-import background from "assets/land/background.png";
+import background from "assets/land/background.webp";
 
 import { Game } from "./Game";
 import { GameProvider } from "./GameProvider";

@@ -4,18 +4,18 @@
 import React, { useContext } from "react";
 import { useActor } from "@xstate/react";
 
-import sunflowerRock from "assets/nfts/sunflower_rock.png";
-import sunflowerTombstone from "assets/nfts/sunflower_tombstone.png";
-import sunflowerStatue from "assets/nfts/sunflower_statue.png";
-import potatoStatue from "assets/nfts/potato_statue.png";
-import christmasTree from "assets/nfts/christmas_tree.png";
-import dog from "assets/nfts/farm_dog.png";
-import cat from "assets/nfts/farm_cat.png";
+import sunflowerRock from "assets/nfts/sunflower_rock.webp";
+import sunflowerTombstone from "assets/nfts/sunflower_tombstone.webp";
+import sunflowerStatue from "assets/nfts/sunflower_statue.webp";
+import potatoStatue from "assets/nfts/potato_statue.webp";
+import christmasTree from "assets/nfts/christmas_tree.webp";
+import dog from "assets/nfts/farm_dog.webp";
+import cat from "assets/nfts/farm_cat.webp";
 import gnome from "assets/nfts/gnome.gif";
-import nancy from "assets/nfts/nancy.png";
-import scarecrow from "assets/nfts/scarecrow.png";
+import nancy from "assets/nfts/nancy.webp";
+import scarecrow from "assets/nfts/scarecrow.webp";
 import kuebiko from "assets/nfts/kuebiko.gif";
-import goblinKing from "assets/nfts/goblin_king.png";
+import goblinKing from "assets/nfts/goblin_king.webp";
 import fountain from "assets/nfts/fountain.gif";
 import beaver from "assets/nfts/beaver.gif";
 import apprentice from "assets/nfts/apprentice_beaver.gif";

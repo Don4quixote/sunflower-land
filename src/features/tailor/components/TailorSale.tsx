@@ -1,6 +1,6 @@
 import React, { useContext, useState } from "react";
 
-import close from "assets/icons/close.png";
+import close from "assets/icons/close.webp";
 import flag from "assets/nfts/flags/sunflower_flag.gif";
 
 import { Panel } from "components/ui/Panel";

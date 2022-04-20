@@ -8,10 +8,10 @@ import { GRID_WIDTH_PX } from "features/game/lib/constants";
 import { Panel } from "components/ui/Panel";
 
 import goblin from "assets/npcs/goblin.gif";
-import goblinHead from "assets/npcs/goblin_head.png";
-import pumpkinSoup from "assets/nfts/pumpkin_soup.png";
-import questionMark from "assets/icons/expression_confused.png";
-import heart from "assets/icons/heart.png";
+import goblinHead from "assets/npcs/goblin_head.webp";
+import pumpkinSoup from "assets/nfts/pumpkin_soup.webp";
+import questionMark from "assets/icons/expression_confused.webp";
+import heart from "assets/icons/heart.webp";
 
 import { Section, useScrollIntoView } from "lib/utils/hooks/useScrollIntoView";
 

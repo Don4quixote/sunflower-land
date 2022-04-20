@@ -3,10 +3,10 @@ import { useActor, useMachine } from "@xstate/react";
 import ReCAPTCHA from "react-google-recaptcha";
 
 import { Panel } from "components/ui/Panel";
-import wisingWell from "assets/buildings/wishing_well.png";
-import icon from "assets/brand/icon.png";
+import wisingWell from "assets/buildings/wishing_well.webp";
+import icon from "assets/brand/icon.webp";
 import token from "assets/icons/token.gif";
-import timer from "assets/icons/timer.png";
+import timer from "assets/icons/timer.webp";
 
 import { Button } from "components/ui/Button";
 import { metamask } from "lib/blockchain/metamask";

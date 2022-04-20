@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import { useActor } from "@xstate/react";
 
-import coop from "assets/nfts/chicken_coop.png";
+import coop from "assets/nfts/chicken_coop.webp";
 
 import { GRID_WIDTH_PX } from "features/game/lib/constants";
 import { Context } from "features/game/GameProvider";

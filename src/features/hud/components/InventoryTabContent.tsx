@@ -6,8 +6,8 @@ import { InventoryItemName } from "features/game/types/game";
 
 import { SEEDS, CropName } from "features/game/types/crops";
 
-import timer from "assets/icons/timer.png";
-import lightning from "assets/icons/lightning.png";
+import timer from "assets/icons/timer.webp";
+import lightning from "assets/icons/lightning.webp";
 
 import { secondsToMidString } from "lib/utils/time";
 import classNames from "classnames";

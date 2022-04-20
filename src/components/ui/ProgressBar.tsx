@@ -1,10 +1,10 @@
 import React from "react";
 
-import progressStart from "assets/ui/progress/start.png";
-import progressQuarter from "assets/ui/progress/quarter.png";
-import progressHalf from "assets/ui/progress/half.png";
-import progressAlmost from "assets/ui/progress/almost.png";
-import progressFull from "assets/ui/progress/full.png";
+import progressStart from "assets/ui/progress/start.webp";
+import progressQuarter from "assets/ui/progress/quarter.webp";
+import progressHalf from "assets/ui/progress/half.webp";
+import progressAlmost from "assets/ui/progress/almost.webp";
+import progressFull from "assets/ui/progress/full.webp";
 
 import { secondsToString } from "lib/utils/time";
 
