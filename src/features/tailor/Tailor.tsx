@@ -42,7 +42,7 @@ export const Tailor: React.FC = () => {
       >
         <img
           src={tailor}
-          className="w-full"
+          className="w-full lightaffected"
           onClick={isNotReadOnly ? openTailor : undefined}
         />
         {isNotReadOnly && (

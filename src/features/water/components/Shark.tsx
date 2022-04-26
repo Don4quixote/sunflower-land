@@ -53,7 +53,7 @@ const Shark = () => {
       }}
     >
       <img
-        className="absolute"
+        className="absolute lightaffected"
         src={imageSources[imageSourceIndex]}
         alt="shark"
         style={{

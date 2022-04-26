@@ -49,7 +49,7 @@ export const Blacksmith: React.FC = () => {
           src={blacksmith}
           alt="market"
           onClick={openBlacksmith}
-          className="w-full"
+          className="w-full lightaffected"
         />
         {isNotReadOnly && (
           <Action

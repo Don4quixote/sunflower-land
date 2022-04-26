@@ -20,7 +20,7 @@ export const Frog: React.FC = () => {
     <>
       <img
         src={frog}
-        className="absolute hover:img-highlight cursor-pointer z-10"
+        className="absolute hover:img-highlight cursor-pointer z-10 lightaffected"
         onClick={open}
         style={{
           width: `${GRID_WIDTH_PX * 0.7}px`,

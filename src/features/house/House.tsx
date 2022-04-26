@@ -226,7 +226,7 @@ export const House: React.FC = () => {
             }}
           />
         )}
-        <img src={house} alt="house" className="w-full" />
+        <img src={house} alt="house" className="w-full lightaffected" />
         <img
           src={smoke}
           style={{

@@ -61,7 +61,7 @@ export const Bakery: React.FC = () => {
           src={bakery}
           alt="bakery"
           onClick={isNotReadOnly ? openBakeryModal : undefined}
-          className="w-full"
+          className="w-full lightaffected"
         />
         {isNotReadOnly && (
           <Action

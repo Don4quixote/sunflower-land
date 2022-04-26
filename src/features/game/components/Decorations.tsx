@@ -90,7 +90,7 @@ export const Decorations: React.FC = () => {
             top: `${GRID_WIDTH_PX * 22}px`,
           }}
           id={Section["Sunflower Rock"]}
-          className="absolute"
+          className="absolute lightaffected"
           src={sunflowerRock}
           alt="Sunflower rock"
         />
@@ -104,7 +104,7 @@ export const Decorations: React.FC = () => {
             top: `${GRID_WIDTH_PX * 1}px`,
           }}
           id={Section["Christmas Tree"]}
-          className="absolute"
+          className="absolute lightaffected"
           src={christmasTree}
           alt="Christmas Tree"
         />
@@ -118,7 +118,7 @@ export const Decorations: React.FC = () => {
             top: `${GRID_WIDTH_PX * 32}px`,
           }}
           id={Section["Sunflower Statue"]}
-          className="absolute"
+          className="absolute lightaffected"
           src={sunflowerStatue}
           alt="Sunflower Statue"
         />
@@ -132,7 +132,7 @@ export const Decorations: React.FC = () => {
             top: `${GRID_WIDTH_PX * 39}px`,
           }}
           id={Section["Potato Statue"]}
-          className="absolute"
+          className="absolute lightaffected"
           src={potatoStatue}
           alt="Potato Statue"
         />
@@ -146,7 +146,7 @@ export const Decorations: React.FC = () => {
             top: `${GRID_WIDTH_PX * 36.8}px`,
           }}
           id={Section["Sunflower Tombstone"]}
-          className="absolute"
+          className="absolute lightaffected"
           src={sunflowerTombstone}
           alt="Sunflower tombstone"
         />
@@ -160,7 +160,7 @@ export const Decorations: React.FC = () => {
             top: `${GRID_WIDTH_PX * 28.2}px`,
           }}
           id={Section["Farm Cat"]}
-          className="absolute z-10"
+          className="absolute z-10 lightaffected"
           src={cat}
           alt="Farm cat"
         />
@@ -174,7 +174,7 @@ export const Decorations: React.FC = () => {
             top: `${GRID_WIDTH_PX * 32}px`,
           }}
           id={Section["Farm Dog"]}
-          className="absolute"
+          className="absolute lightaffected"
           src={dog}
           alt="Farm dog"
         />
@@ -188,14 +188,14 @@ export const Decorations: React.FC = () => {
             top: "441px",
           }}
           id={Section.Gnome}
-          className="absolute"
+          className="absolute lightaffected"
           src={gnome}
           alt="Gnome"
         />
       )}
       {/* Scarecrows */}
       <div
-        className="flex justify-center absolute"
+        className="flex justify-center absolute lightaffected"
         style={{
           width: `${GRID_WIDTH_PX * 3}px`,
           left: `${GRID_WIDTH_PX * 38}px`,
@@ -214,7 +214,7 @@ export const Decorations: React.FC = () => {
             top: `${GRID_WIDTH_PX * 30}px`,
           }}
           id={Section.Fountain}
-          className="absolute"
+          className="absolute lightaffected"
           src={fountain}
           alt="Fountain"
         />
@@ -228,7 +228,7 @@ export const Decorations: React.FC = () => {
             bottom: `${GRID_WIDTH_PX * 5.5}px`,
           }}
           id={Section["Goblin Crown"]}
-          className="absolute"
+          className="absolute lightaffected"
           src={goblinKing}
           alt="GoblinKing"
         />
@@ -242,7 +242,7 @@ export const Decorations: React.FC = () => {
             top: `${GRID_WIDTH_PX * 49}px`,
           }}
           id={Section["Beaver"]}
-          className="absolute"
+          className="absolute lightaffected"
           src={beaver}
           alt="Beaver"
         />
@@ -256,7 +256,7 @@ export const Decorations: React.FC = () => {
             top: `${GRID_WIDTH_PX * 49}px`,
           }}
           id={Section["Beaver"]}
-          className="absolute"
+          className="absolute lightaffected"
           src={apprentice}
           alt="Beaver"
         />
@@ -270,7 +270,7 @@ export const Decorations: React.FC = () => {
             top: `${GRID_WIDTH_PX * 49}px`,
           }}
           id={Section["Beaver"]}
-          className="absolute"
+          className="absolute lightaffected"
           src={foreman}
           alt="Beaver"
         />
@@ -284,7 +284,7 @@ export const Decorations: React.FC = () => {
             top: `${GRID_WIDTH_PX * 23}px`,
           }}
           id={Section["Easter Bunny"]}
-          className="absolute"
+          className="absolute lightaffected"
           src={easterBunny}
           alt="Easter Bunny"
         />

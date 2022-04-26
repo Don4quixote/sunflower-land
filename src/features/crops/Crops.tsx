@@ -21,7 +21,7 @@ export const Crops: React.FC = () => {
           left: `calc(50% - ${GRID_WIDTH_PX * 13}px)`,
           top: `calc(50% - ${GRID_WIDTH_PX * 23}px)`,
         }}
-        className="absolute"
+        className="absolute lightaffected"
       >
         {/* Navigation Center Point */}
         <span

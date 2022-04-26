@@ -48,7 +48,7 @@ export const WishingWell: React.FC = () => {
           src={wishingWell}
           alt="market"
           onClick={openWell}
-          className="w-full"
+          className="w-full lightaffected"
         />
         {isNotReadOnly && (
           <Action

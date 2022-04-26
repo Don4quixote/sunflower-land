@@ -44,7 +44,7 @@ export const Market: React.FC = () => {
         src={market}
         alt="market"
         onClick={isNotReadOnly ? handleMarketClick : undefined}
-        className="w-full"
+        className="w-full lightaffected"
       />
       {isNotReadOnly && (
         <Action

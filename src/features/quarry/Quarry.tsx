@@ -9,7 +9,7 @@ export const Quarry: React.FC = () => {
   return (
     <>
       <div
-        className="absolute"
+        className="absolute lightaffected"
         style={{
           right: `${GRID_WIDTH_PX * 5}px`,
           top: `${GRID_WIDTH_PX * 25}px`,
@@ -18,7 +18,7 @@ export const Quarry: React.FC = () => {
         <Stone rockIndex={0} />
       </div>
       <div
-        className="absolute"
+        className="absolute lightaffected"
         style={{
           left: `${GRID_WIDTH_PX * 15}px`,
           top: `${GRID_WIDTH_PX * 43}px`,
@@ -28,7 +28,7 @@ export const Quarry: React.FC = () => {
       </div>
 
       <div
-        className="absolute"
+        className="absolute lightaffected"
         style={{
           right: `${GRID_WIDTH_PX * 10}px`,
           top: `${GRID_WIDTH_PX * 50}px`,
@@ -38,7 +38,7 @@ export const Quarry: React.FC = () => {
       </div>
 
       <div
-        className="absolute"
+        className="absolute lightaffected"
         style={{
           left: `${GRID_WIDTH_PX * 25}px`,
           top: `${GRID_WIDTH_PX * 20}px`,
@@ -47,7 +47,7 @@ export const Quarry: React.FC = () => {
         <Iron rockIndex={0} />
       </div>
       <div
-        className="absolute"
+        className="absolute lightaffected"
         style={{
           right: `${GRID_WIDTH_PX * 1}px`,
           top: `${GRID_WIDTH_PX * 40}px`,
@@ -57,7 +57,7 @@ export const Quarry: React.FC = () => {
       </div>
 
       <div
-        className="absolute"
+        className="absolute lightaffected"
         style={{
           left: `calc(50% +  ${GRID_WIDTH_PX * 25}px)`,
           top: `${GRID_WIDTH_PX * 14}px`,

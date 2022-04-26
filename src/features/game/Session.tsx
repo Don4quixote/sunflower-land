@@ -33,7 +33,7 @@ export const Session: React.FC = () => {
             className="relative h-gameboard w-gameboard"
             // TODO dynamic game board size based on tile dimensions
           >
-            <img src={background} className="absolute inset-0 w-full h-full" />
+            <img src={background} className="absolute inset-0 w-full h-full lightaffected" />
             <ExpansionInfo />
             <Game />
           </div>
