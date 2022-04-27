@@ -17,7 +17,7 @@ export const Forest: React.FC = () => {
         left: `calc(50% - ${GRID_WIDTH_PX * -21.4}px)`,
         top: `calc(50% - ${GRID_WIDTH_PX * 4}px)`,
       }}
-      className="absolute lightaffected" 
+      className="absolute" 
     >
       <Lumberjack />
       <div

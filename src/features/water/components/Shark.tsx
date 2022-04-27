@@ -45,7 +45,7 @@ const Shark = () => {
 
   return (
     <div
-      className="absolute top-1/2 -translate-y-40 w-full"
+      className="absolute top-1/2 -translate-y-40 w-full  lightaffected"
       style={{
         height: "360px",
         left: "-200px",
@@ -53,7 +53,7 @@ const Shark = () => {
       }}
     >
       <img
-        className="absolute lightaffected"
+        className="absolute"
         src={imageSources[imageSourceIndex]}
         alt="shark"
         style={{

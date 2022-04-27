@@ -32,14 +32,20 @@ body {
 
 @keyframes lightphases {
   0% { filter: brightness(1) hue-rotate(0deg); } /* day */
-  25% { filter: brightness(0.7) hue-rotate(10deg); }
-  50% { filter: brightness(0.4) hue-rotate(20deg); } /* night */
-  75% { filter: brightness(0.7) hue-rotate(10deg); }
+  10% { filter: brightness(0.9) hue-rotate(5deg); }
+  20% { filter: brightness(0.8) hue-rotate(10deg); }
+  30% { filter: brightness(0.7) hue-rotate(15deg); }
+  40% { filter: brightness(0.6) hue-rotate(15deg); }
+  50% { filter: brightness(0.5) hue-rotate(25deg); } /* night */
+  60% { filter: brightness(0.6) hue-rotate(20deg); }
+  70% { filter: brightness(0.7) hue-rotate(15deg); }
+  80% { filter: brightness(0.8) hue-rotate(10deg); }
+  90% { filter: brightness(0.9) hue-rotate(5deg); }
   100% { filter: brightness(1) hue-rotate(0deg); } /* day */
 }
 
 .lightaffected {
-  animation-duration: 3s;
+  animation-duration: 30s;
   animation-iteration-count: infinite;
   animation-name: lightphases;
 }
