@@ -22,7 +22,7 @@ export const Water: React.FC = () => {
         left: "calc(50% - 1100px)",
         top: "calc(50% - 320px)",
       }}
-      className="absolute"
+      className="absolute lightaffected"
     >
       <div className="h-full w-full relative">
         {/* Navigation Center Point */}
@@ -31,17 +31,17 @@ export const Water: React.FC = () => {
           className="absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2"
         />
 
-        <img src={chick} className="absolute right-0 w-5 top-8 lightaffected" />
+        <img src={chick} className="absolute right-0 w-5 top-8" />
         <img
           src={dragonfly}
-          className="absolute right-16 w-10 bottom-36 animate-float lightaffected"
+          className="absolute right-16 w-10 bottom-36 animate-float"
         />
 
         <Frog />
         <Shark />
         <img
           src={goblinSwimming}
-          className="absolute lightaffected"
+          className="absolute"
           style={{
             width: `${GRID_WIDTH_PX * 5}px`,
             left: `${GRID_WIDTH_PX * 5.5}px`,
@@ -51,7 +51,7 @@ export const Water: React.FC = () => {
 
         <img
           src={swimmer}
-          className="absolute lightaffected"
+          className="absolute"
           style={{
             width: `${GRID_WIDTH_PX * 5}px`,
             left: `${GRID_WIDTH_PX * 58.5}px`,
